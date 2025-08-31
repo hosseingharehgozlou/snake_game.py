@@ -1,0 +1,9 @@
+sen =39
+
+if sen < 40:
+      print('hanooz javooni ha')
+      print('sene farzandet' , '2' )
+
+if sen > 40:
+      print('dige javooni nisti')     
+
